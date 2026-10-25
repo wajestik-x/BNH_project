@@ -1,0 +1,5 @@
+program,loans,default_rate,avg_pd,total_subsidy
+AADL Location-vente,1892,0.173,0.174,1033200000
+Logement Promotionnel Aidé,2507,0.17,0.172,1322400000
+Logement Rural,638,0.201,0.17,337200000
+Autre,447,0.15,0.171,237000000
